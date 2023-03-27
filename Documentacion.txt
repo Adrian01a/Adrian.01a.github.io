@@ -1,0 +1,3 @@
+Lista de actividades 
+
+1. Validacion de entrada de datos
