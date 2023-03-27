@@ -1,12 +1,20 @@
-* {
+header {
+    background-color: #00594c;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    padding: 0px;
+    height: 150px;
+    text-align: center;
+}
+ * {
     box-sizing: border-box;
 }
 
 body {
     background: #f6f5f7;
     display: flex;
-    justify-content: center;
-    align-items: center;
+    justify-content: start;
     flex-direction: column;
     font-family: 'Ottawa Bold';
     height: 100vh;
@@ -249,8 +257,8 @@ footer a {
     color: #3c97bf;
     text-decoration: none;
 }
-
-header {
-    background-color: #00594c;
-}
-                
+               
+@media (orientation: landscape) {
+    header
+    body
+  }
