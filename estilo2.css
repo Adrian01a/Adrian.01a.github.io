@@ -3,8 +3,8 @@ header {
     display: flex;
     justify-content: center;
     flex-direction: column;
-    padding: 0px;
-    height: 150px;
+    padding: 25px;
+    height: 120px;
     text-align: center;
 }
  * {
@@ -17,9 +17,11 @@ body {
     justify-content: start;
     flex-direction: column;
     font-family: 'Ottawa Bold';
-    height: 100vh;
-    margin: -20px 0 50px;
+    height: 80vh;
+    margin: -20px 0 70px;
+    
 }
+
 
 h1 {
     font-weight: bold;
@@ -245,20 +247,6 @@ footer {
     z-index: 999;
 }
 
-footer p {
-    margin: 10px 0;
-}
 
-footer i {
-    color: red;
-}
 
-footer a {
-    color: #3c97bf;
-    text-decoration: none;
-}
                
-@media (orientation: landscape) {
-    header
-    body
-  }
